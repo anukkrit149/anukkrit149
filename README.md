@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web3, DApps, Polygon, ETH2
 - 💞️ I’m looking to collaborate on Web3, Blockchain, DApps Projects
 - 📫 How to reach me.
+        
         - personal email -> anukkrit.official@gmail.com
         - work github -> @anukkrit-zepto
 
