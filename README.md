@@ -2,10 +2,10 @@
 - 👀 I’m currently working as software engineer at Zepto
 - 🌱 I’m currently learning Web3, DApps, Polygon, ETH2
 - 💞️ I’m looking to collaborate on Web3, Blockchain, DApps Projects
-- 📫 How to reach me.
-        
-        - personal email -> anukkrit.official@gmail.com
-        - work github -> @anukkrit-zepto
+- Have experience in Golang, Python, AWS, GCP, Distributive Systems
+- 📫 How to reach me 
+    - personal email -> anukkrit.official@gmail.com
+    - work github -> @anukkrit-zepto
 
 <!---
 anukkrit-zepto/anukkrit-zepto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
