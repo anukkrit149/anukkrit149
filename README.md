@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anukkrit Shanker 
-- Have experience in Golang, Python, AWS, GCP, Distributive Systems
+- Have experience in Golang, Rust, Python, AWS, GCP, Distributive Systems
 - 📫 How to reach me 
     - personal email -> anukkrit.official@gmail.com
 
