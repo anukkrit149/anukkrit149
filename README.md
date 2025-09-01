@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Anukkrit Shanker 
-- Have experience in Golang, Rust, Python, Typescript, JS, AWS, GCP, Distributive Systems, K8s
+- Have experience in Golang, Rust, Python, Typescript, JS, AWS, GCP, Distributive Systems, K8s, Terraform & devops.
 - 📫 How to reach me 
     
 - personal email -> anukkrit.official@gmail.com
